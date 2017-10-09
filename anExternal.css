@@ -1,0 +1,24 @@
+body  {
+        background-color: lightblue;
+}
+
+h1    {
+        color: blue;
+}
+
+h2    {
+        color: orange;
+}
+
+p     {
+        color: purple;
+        border: 3px;
+        outline-style: dotted;
+        font-size: 200%;
+        font-family: "Courier New";
+}
+
+img   {
+        float: right;
+        margin: 20px 20px 10px 10px;
+}
